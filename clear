@@ -1,0 +1,48 @@
+[33mcommit f33f612b1ad16d493928802a42304c67d60ef9e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 3854a33 ac19b07
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Tue Apr 14 01:06:38 2026 -0400
+
+    Merge branch 'main' into login
+
+[33mcommit ac19b078448b44ce0c168b80e13d37faba15c6f5[m[33m ([m[1;32mmain[m[33m)[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Tue Apr 14 01:02:17 2026 -0400
+
+    Git 3 v2
+
+[33mcommit 3854a3304b9690f0e146383fa48b36111749d610[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Tue Apr 14 00:55:51 2026 -0400
+
+    Login
+
+[33mcommit 90dd0750ac2866b4f007f568c9ebd7836176bcd5[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Tue Apr 14 00:22:09 2026 -0400
+
+    Este es mi quinto commit
+
+[33mcommit 4c72eb6d0cf648ef29d070f7b33584842ecd9aed[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Sat Apr 11 05:15:20 2026 -0400
+
+    se añade el .gitignore
+
+[33mcommit 6dc5d68172a97227a56b3b8c09ba12c7e5c7828d[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Sat Apr 11 04:58:33 2026 -0400
+
+    Se actualiza el texto del print
+
+[33mcommit adb0313f2ef0f622eec1b874ea6657d6dc336945[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Sat Apr 11 04:48:07 2026 -0400
+
+    Este es mi segundo commit
+
+[33mcommit 11989646032dfca458db8ee7588ea74893564af9[m
+Author: PrimerProyectoGit <eduar98.diaz@gmail.com>
+Date:   Sat Apr 11 04:40:42 2026 -0400
+
+    Este es mi primer commit
